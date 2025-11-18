@@ -5,8 +5,8 @@ As part of my Diabetes Prediction Analysis project with UNP Education, I analyze
 
 
 GOOGLE COLAB LINK:
-https://colab.research.google.com/drive/1Chp76yK-CKcVAv_vktsgXQVROF70Srq3
+https://drive.google.com/file/d/1kBqlMV5wa8Hpl1kzPlb-406qt3EN3Tl9/view?usp=drive_link
 
 
 PROJECT PRESENTATION LINK:
-https://docs.google.com/presentation/d/1ZJhPtgo1AHfwQKP3BlxsYYAnbMSGTTrm/edit?usp=drivesdk&ouid=105223082794582213864&rtpof=true&sd=true
+https://drive.google.com/file/d/1obr8DzBGn1B70bJEGk5iGz5Ow5GPGkCs/view?usp=drive_link
