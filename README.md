@@ -9,4 +9,4 @@ https://drive.google.com/file/d/1kBqlMV5wa8Hpl1kzPlb-406qt3EN3Tl9/view?usp=drive
 
 
 PROJECT PRESENTATION LINK:
-https://drive.google.com/file/d/1obr8DzBGn1B70bJEGk5iGz5Ow5GPGkCs/view?usp=drive_link
+https://github.com/ShivamSingh2495/UNP_CLASSIFICATION_PROJECT_WITH_PYTHON_DIABETES_ANALYSIS
